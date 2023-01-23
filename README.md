@@ -1,6 +1,14 @@
 # IS445 Datasets
 This is the general tracking location of the datasets used in this course.  Will likely eventually move elsewhere to be stored in a much better way!
 
+Note: for some of these files you need to push with:
+
+```
+git config --global http.postBuffer 500M
+git config --global http.maxRequestBuffer 100M
+git config --global core.compression 0
+```
+
 ## Illinois Licensing Data
 
 Link: https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/main/data/licenses_fall2022.csv

@@ -43,6 +43,14 @@ Link: https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_bcubcg_fall20
 
 Data source: ?
 
+#### UFO Subset dataset
+
+This is a subset of the UFO dataset.
+
+Link: https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/ufo-subset-spring2023.csv
+
+Data source: ?
+
 ## GDP dataset
 
 Link: https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/main/data/GDP.csv

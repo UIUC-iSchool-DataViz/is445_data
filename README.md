@@ -157,3 +157,7 @@ Data source: http://exoplanetarchive.ipac.caltech.edu
 ## Illinois Employee Compensation (NOT USED)
 
 https://data.illinois.gov/dataset/432015_salary_reporting/resource/4173bb1c-006f-4fd5-8ec5-302ed7c52560
+
+## Country, US State & US County Codes
+
+See the [geo_codes](./geo_codes) directory for more info about these.
